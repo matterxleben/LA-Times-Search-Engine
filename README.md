@@ -1,5 +1,5 @@
 # Search-Engine
-This is a Search Engine, built-in Python. This program was created during the course "MSCI 541 Search Engines" our term-long project.
+This is a Search Engine, built-in Python. This program was created during the course "MSCI 541 Search Engines" for our term-long project.
 
 ## Installation Requirements:
 1.	Please install Python on your computer before running the program.
