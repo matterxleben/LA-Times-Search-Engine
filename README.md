@@ -2,8 +2,8 @@
 This is a Search Engine, built-in Python. This program was created during the course "MSCI 541 Search Engines" our term-long project.
 
 ## Installation Requirements:
-1.	Please make sure Python is installed on your computer before running the program.
-2.	Clone the repository on your device by entering this into your terminal: git clone https://github.com/UWaterloo-MSCI-541/msci-541-f23-hw5-matterxleben.git
+1.	Please install Python on your computer before running the program.
+2.	Clone the repository on your device by entering this into your terminal: git clone https://github.com/matterxleben/Search-Engine.git
 
 ## Running the Programs:
 To run these programs, please navigate to where you cloned the repository and open the working directory .../msci-541-f23-hw5-matterxleben
