@@ -1,6 +1,5 @@
 # LA Times Search Engine
-This is a Search Engine for LA Times articles built-in Python. This program was created during the course "MSCI 541 Search Engines" for our term-long project.
-The corpus is LA Times articles from gathered from 1989-1990. This is a TREC dataset.
+This is a Search Engine built-in Python. The corpus is LA Times articles gathered from 1989-1990 and is a TREC dataset. This program was created during the course "MSCI 541 Search Engines" for our term-long project.
 
 ## Installation Requirements:
 1.	Please install Python on your computer before running the program.
